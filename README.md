@@ -4,7 +4,7 @@
 
 About This Project:
 
--   ⚛️ Tech: Vite, React 19, JavaScript, ESLint, Tailwind
+-   ⚛️ Tech: Vite, React 19, JavaScript, ESLint, Tailwind, Zustand
 -   📱 Responsive UI
 -   🎬 Fetch Movies and Tv Show
 -   🔎 Search for Actors and Movies
